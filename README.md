@@ -42,5 +42,5 @@ I learnt how to use flexbox to position content on the page
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hamlanreh)
-- Twitter - [@yourusername](https://www.twitter.com/hamlanreh)
+- Frontend Mentor - [@hamlanreh](https://www.frontendmentor.io/profile/Hamlanreh)
+- Twitter - [@hamlanreh](https://www.twitter.com/hamlanreh)
